@@ -1,0 +1,12 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "工具函数",
+  "main": "index.js",
+  "keywords": [
+    "tools"
+  ],
+  "author": "lijundong",
+  "license": "ISC",
+  "dependencies": {}
+}

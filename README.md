@@ -1,2 +1,3 @@
-# my_tools
-工具函数库
+# jzb-tools
+
+文档请看 https://www.yuque.com/jizhibao/ogahge/kouw9o
